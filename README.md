@@ -88,6 +88,4 @@ Poojitha
 ECE Student @ VIT-AP University  
 Aspiring VLSI & Semiconductor Engineer
 
-Poojitha  
-ECE Student @ VIT-AP University  
-Aspiring VLSI & Semiconductor Engineer
+
