@@ -1,53 +1,93 @@
-# HDLBits-Solutions
-Verilog HDL practice solutions from HDLBits, covering key digital design concepts essential for VLSI Front-End, RTL Design, FPGA Development, and ASIC Design.
 # HDLBits Solutions
 
-This repository contains my solutions to HDLBits exercises implemented in Verilog HDL.
+This repository contains my solutions to HDLBits exercises implemented in Verilog HDL. The exercises cover digital design fundamentals, RTL design concepts, and verification techniques used in FPGA and VLSI design.
 
-## Topics Covered
+## Contents
 
-- Combinational Logic
-- Sequential Logic
-- Multiplexers and Encoders
+### 1. Getting Started
+
+### 2. Verilog Language
+- Basics
+- Vectors
+- Modules: Hierarchy
+- Procedures
+- More Verilog Features
+
+### 3. Circuits
+
+#### 3.1 Combinational Logic
+- Basic Gates
+- Multiplexers
 - Arithmetic Circuits
-- Counters and Shift Registers
-- Finite State Machines (FSMs)
+- Karnaugh Map to Circuit
+
+#### 3.2 Sequential Logic
 - Latches and Flip-Flops
-- Digital Design Fundamentals
+- Counters
+- Shift Registers
+- More Circuits
+- Finite State Machines (FSMs)
 
-## Purpose
+#### 3.3 Building Larger Circuits
 
-The goal of this repository is to strengthen my Verilog HDL programming skills and build a solid foundation in digital logic design, RTL design, FPGA development, and VLSI design.
+### 4. Verification: Reading Simulations
+- Finding Bugs in Code
+- Build a Circuit from a Simulation Waveform
+
+### 5. Verification: Writing Testbenches
+
+### 6. CS450
+- Advanced Digital Design Problems
+
+---
 
 ## Technologies Used
 
 - Verilog HDL
-- HDLBits Online Platform
+- HDLBits
+- Digital Logic Design
+- RTL Design
 
-## Repository Structure
-
-```
-HDLBits-Solutions/
-├── Combinational Logic/
-├── Sequential Logic/
-├── FSM/
-├── Counters/
-├── Arithmetic Circuits/
-└── README.md
-```
-
-## Learning Outcomes
+## Learning Objectives
 
 Through these exercises, I am developing skills in:
 
-- RTL Coding
-- Digital Circuit Design
+- Verilog HDL Programming
+- RTL Design
+- Combinational Logic Design
+- Sequential Logic Design
 - FSM Design
-- Timing and Sequential Logic
-- Hardware Description Languages
-- FPGA and ASIC Design Fundamentals
+- Digital Verification
+- Testbench Development
+- FPGA Design Fundamentals
+- ASIC/VLSI Front-End Design
+
+## Repository Structure
+
+```text
+HDLBits-Solutions/
+├── Getting Started/
+├── Verilog Language/
+│   ├── Basics/
+│   ├── Vectors/
+│   ├── Modules Hierarchy/
+│   ├── Procedures/
+│   └── More Verilog Features/
+├── Circuits/
+│   ├── Combinational Logic/
+│   ├── Sequential Logic/
+│   └── Building Larger Circuits/
+├── Verification Reading Simulations/
+├── Verification Writing Testbenches/
+├── CS450/
+└── README.md
+```
 
 ## Author
+Poojitha  
+ECE Student @ VIT-AP University  
+Aspiring VLSI & Semiconductor Engineer
 
 Poojitha  
-ECE Student | Aspiring VLSI & Semiconductor Engineer
+ECE Student @ VIT-AP University  
+Aspiring VLSI & Semiconductor Engineer
